@@ -17,7 +17,7 @@ Damage to Caracas, Venezuela, caused by an earthquake on 24/06/2026
 <br><br>
 <img width="1553" height="942" alt="Screenshot_3" src="https://github.com/user-attachments/assets/168461fe-3925-4006-89a2-07e9156d162e" />
 <br>
-Battle damage to Mosul, Iraq, between 09/03/2017 – 21/03/2017
+Battle damage to Mosul, Iraq, between 09/04/2017 – 21/04/2017
 
 
 
