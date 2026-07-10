@@ -9,14 +9,14 @@ This project maps building and infrastructure damage over a user-defined area of
 
 <br>
 <b></b>Examples:</b>
-<br>
+<br><br>
 
 <img width="1433" height="726" alt="Screenshot_2" src="https://github.com/user-attachments/assets/e6e65aba-ab2e-44f4-a91a-9c7d5c4dd520" />
 <br>
 Damage to Caracas, Venezuela, caused by an earthquake on 24/06/2026
-<br>
+<br><br>
 <img width="1553" height="942" alt="Screenshot_3" src="https://github.com/user-attachments/assets/168461fe-3925-4006-89a2-07e9156d162e" />
-<br>
+<br><br>
 Battle damage to Mosul, Iraq, between 09/03/2017 – 21/03/2017
 
 
