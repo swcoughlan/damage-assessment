@@ -10,4 +10,6 @@ data/output/pygmtsar_work/
 # embedded raster overlays) - keep only the small summary/plot, not the heavy artifacts
 data/output/results/*/damage_assessment.tif
 data/output/results/*/damage_map.html
+data/output/results/*/mosu_damage.tif
+data/output/results/*/mosu_damage.tif.ovr
 data/output/candidate_scenes_preview.html

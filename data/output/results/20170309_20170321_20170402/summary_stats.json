@@ -1,0 +1,11 @@
+{
+  "pre1_acquisition_date": "20170309",
+  "pre2_acquisition_date": "20170321",
+  "post_acquisition_date": "20170402",
+  "relative_orbit": 145,
+  "coherence_drop_threshold": 0.25,
+  "min_connected_pixels": 8,
+  "valid_pixels": 19966865,
+  "damage_candidate_pixels": 1337262,
+  "damage_fraction": 0.06697405927270005
+}
