@@ -10,24 +10,26 @@ This project maps building and infrastructure damage over a user-defined area of
 
 <br>
 How it works: 
-<br>
+<br><br>
 <img width="1354" height="679" alt="Screenshot_5" src="https://github.com/user-attachments/assets/1ccf08ba-2221-4ff1-aed7-3a716730113f" />
 <br><br>
 
 Processing pipeline: 
-<br>
+<br><br>
 <img width="1460" height="627" alt="Screenshot_6" src="https://github.com/user-attachments/assets/5a61931d-1d27-4ab6-a1c7-d150ed2ef2ce" />
 <br><br>
+
 Examples:
 <br><br>
-
-<img width="1433" height="726" alt="Screenshot_2" src="https://github.com/user-attachments/assets/e6e65aba-ab2e-44f4-a91a-9c7d5c4dd520" />
-<br>
 Damage to Caracas, Venezuela, caused by an earthquake on 24/06/2026
 <br><br>
-<img width="1450" height="952" alt="Screenshot_4" src="https://github.com/user-attachments/assets/fdddcbef-e55d-4fdb-a47a-8ae14a94ef95" />
-<br>
+<img width="1433" height="726" alt="Screenshot_2" src="https://github.com/user-attachments/assets/e6e65aba-ab2e-44f4-a91a-9c7d5c4dd520" />
+<br><br>
 Battle damage to Mosul, Iraq, between 09/04/2017 – 21/04/2017
+<br><br>
+<img width="1450" height="952" alt="Screenshot_4" src="https://github.com/user-attachments/assets/fdddcbef-e55d-4fdb-a47a-8ae14a94ef95" />
+
+
 
 
 
