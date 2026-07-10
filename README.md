@@ -1,3 +1,4 @@
+
 # InSAR Damage Assessment
 
 This project maps building and infrastructure damage over a user-defined area of interest using Sentinel-1 SAR interferometric coherence loss as a proxy.  Collapsed or heavily damaged structures decorrelate the radar return between passes, while intact/unchanged ground mostly does not. 
@@ -5,3 +6,8 @@ This project maps building and infrastructure damage over a user-defined area of
 1. The pipeline queries the Copernicus Data Space Ecosystem catalog for Sentinel-1 SLC acquisitions over the AOI and automatically selects a triplet of scenes on a shared orbital track: 2 pre-event images and 1 post-event image. 
 2. Downloads and processes them with ESA SNAP into two coherence products: a "baseline" pair (pre-event1 vs. pre-event2, characterizing ordinary non-damage decorrelation from vegetation, weather, and seasonal change) and a "co-event" pair (pre-event2 vs. post-event, capturing whatever additionally decorrelated during the event window).
 3. Pixels where coherence drops significantly more in the co-event pair than in the baseline pair are flagged as damage candidates, connectivity-filtered to suppress speckle noise, and the result is written out as a georeferenced multi-band GeoTIFF, a static comparison figure, an interactive HTML map with coherence/damage layers, and a JSON summary of affected-area statistics. 
+
+<img width="2835" height="849" alt="coherence_damage_comparison" src="https://github.com/user-attachments/assets/fa0ba365-0879-46c3-b50c-a8647fd853f2" />
+<img width="1433" height="726" alt="Screenshot_2" src="https://github.com/user-attachments/assets/e6e65aba-ab2e-44f4-a91a-9c7d5c4dd520" />
+<img width="1553" height="942" alt="Screenshot_3" src="https://github.com/user-attachments/assets/168461fe-3925-4006-89a2-07e9156d162e" />
+
