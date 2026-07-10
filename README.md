@@ -10,13 +10,14 @@ This project maps building and infrastructure damage over a user-defined area of
 
 <br>
 How it works: 
+<br>
 <img width="1354" height="679" alt="Screenshot_5" src="https://github.com/user-attachments/assets/1ccf08ba-2221-4ff1-aed7-3a716730113f" />
 <br><br>
 
 Processing pipeline: 
 <br>
 <img width="1460" height="627" alt="Screenshot_6" src="https://github.com/user-attachments/assets/5a61931d-1d27-4ab6-a1c7-d150ed2ef2ce" />
-<br>
+<br><br>
 Examples:
 <br><br>
 
