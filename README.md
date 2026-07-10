@@ -8,7 +8,7 @@ This project maps building and infrastructure damage over a user-defined area of
 3. Pixels where coherence drops significantly more in the co-event pair than in the baseline pair are flagged as damage candidates, connectivity-filtered to suppress speckle noise, and the result is written out as a georeferenced multi-band GeoTIFF, a static comparison figure, an interactive HTML map with coherence/damage layers, and a JSON summary of affected-area statistics.
 
 <br>
-<b></b>Examples:</b>
+<h2></b>Examples:</h2>
 <br><br>
 
 <img width="1433" height="726" alt="Screenshot_2" src="https://github.com/user-attachments/assets/e6e65aba-ab2e-44f4-a91a-9c7d5c4dd520" />
