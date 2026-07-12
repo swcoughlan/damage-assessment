@@ -2,8 +2,6 @@ __pycache__/
 *.pyc
 
 # Raw/downloaded Sentinel-1 products and intermediate SNAP outputs - tens of GB, not source
-data/input/
-data/output/preprocessed/
 data/output/pygmtsar_work/
 
 # Final per-run deliverables can be large too (multi-hundred-MB GeoTIFFs, folium HTML with
