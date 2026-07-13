@@ -2,7 +2,7 @@
 
 # InSAR Damage Assessment
 
-Click here for the code: [File Name](insar-damage-assessment.ipynb)
+Click here for the code: [insar-damage-assessment.ipynb](insar-damage-assessment.ipynb)
 
 This project maps building and infrastructure damage over a user-defined area of interest using Sentinel-1 SAR interferometric coherence loss as a proxy.  Collapsed or heavily damaged structures decorrelate the radar return between passes, while intact/unchanged ground mostly doesn't. 
 
