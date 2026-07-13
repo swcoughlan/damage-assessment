@@ -2,7 +2,9 @@ import os
 
 # Copernicus Data Space Ecosystem (CDSE) credentials.
 # Set these as environment variables rather than hardcoding them here
-# Open Windows Powershell and paste the following two lines (insert your credentials
+# Open Windows Powershell and paste the following two lines (insert your credentials in place
+# of YOUR_USERNAME and YOUR_PASSWORD. Omit the '# '! 
+
 # [Environment]::SetEnvironmentVariable('CDSE_USERNAME', 'YOUR USERNAME', 'User')
 # [Environment]::SetEnvironmentVariable('CDSE_PASSWORD', 'YOUR PASSWORD', 'User')
 
