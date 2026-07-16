@@ -1,5 +1,3 @@
-
-
 # InSAR Damage Assessment
 
 Click here for the code: [insar-damage-assessment.ipynb](insar-damage-assessment.ipynb)
